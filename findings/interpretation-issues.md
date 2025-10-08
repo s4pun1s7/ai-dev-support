@@ -7,7 +7,9 @@
 
 ### Issue Summary
 
-Based on the described interaction, the AI system demonstrated poor interpretation of provided data (link), resulting in inadequate or incorrect responses.
+**CONFIRMED CASE STUDY**: Based on a real GitHub Copilot conversation, the AI system demonstrated poor interpretation of a Spotify link, resulting in multiple fabrication errors including wrong artist identification and incorrect lyrics.
+
+**Note**: This is currently our only verified real-world example. Additional test cases in this project are simulated for framework development purposes.
 
 ### Key Problems Identified
 

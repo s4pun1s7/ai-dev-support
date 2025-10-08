@@ -32,11 +32,15 @@ Our fabrication detection system works by analyzing AI responses for specific pa
 
 ## 📊 Test Results Summary
 
-### Overall Performance
+**⚠️ IMPORTANT NOTE**: The test results below are from SIMULATED AI responses used to demonstrate the framework's detection capabilities. The only verified real-world case is the Spotify URL fabrication incident described in the findings.
+
+### Framework Demonstration Results (Simulated Data)
 - **Total Tests Run**: 6 across 4 categories
-- **Fabrication Rate**: 100% (All tests showed fabrication patterns)
+- **Fabrication Rate**: 100% (All simulated tests showed fabrication patterns)
 - **Average Indicators**: 2.7 per response
 - **Risk Distribution**: 50% High risk, 50% Low risk
+
+**Purpose**: These simulated results demonstrate how the framework would classify different types of AI fabrication responses. Real-world testing with actual AI systems is the next phase of research.
 
 ### Most Dangerous Patterns Detected
 
